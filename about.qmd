@@ -5,6 +5,4 @@ toc: false
 
 ## Program :
 
-1.  [SEO Outreach](https://niagahoster-vix-talent-database.netlify.app/seo.html "SEO Outreach")
-
-2.  [UI/UX Designer](https://niagahoster-vix-talent-database.netlify.app/uiux.html "UI/UX Designer")
+1.  [Business Intelligence Analyst](https://bank-muamalat-vix-talent-database.netlify.app/bi.html "Business Intelligence Analyst")
